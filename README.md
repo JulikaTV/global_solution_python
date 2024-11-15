@@ -1,4 +1,4 @@
-# Projeto NomeDoProjeto
+<h1 align="center">🌱Global Solution🌱</h1>
 
 **Descrição**  
 NomeDoProjeto é uma [breve descrição, por exemplo: "aplicação web que ajuda a gerenciar tarefas diárias de forma intuitiva e eficiente"]. O projeto foi criado com o objetivo de [explicar o propósito principal, como "aumentar a produtividade pessoal e de equipes"].
