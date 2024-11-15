@@ -31,4 +31,4 @@ Para executar o projeto localmente:
 4. Acesse `http://localhost:3000` em seu navegador para ver o projeto em ação.
 
 **Licença🏛️**  
-Este projeto está licenciado sob a Licença [tipo de licença, ex. MIT]. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
