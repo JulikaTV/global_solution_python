@@ -1,5 +1,7 @@
 <h1 align="center">🌱Global Solution🌱</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&pause=3000&color=00C30C&background=FFFFFF00&center=true&width=435&lines=%F0%9F%8C%B1Global+Solution%F0%9F%8C%B1)](https://git.io/typing-svg)
+
 **Descrição**  
 NomeDoProjeto é uma [breve descrição, por exemplo: "aplicação web que ajuda a gerenciar tarefas diárias de forma intuitiva e eficiente"]. O projeto foi criado com o objetivo de [explicar o propósito principal, como "aumentar a produtividade pessoal e de equipes"].
 
