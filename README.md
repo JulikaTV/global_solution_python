@@ -1,4 +1,4 @@
-<h1 align="center">🌱Global Solution🌱</h1>
+<h1 align="center">🌱Global Solution - Python🌱</h1>
 <br>
 <br>
 
