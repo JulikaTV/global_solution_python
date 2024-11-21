@@ -93,11 +93,11 @@ Desenvolvemos um jogo interativo de múltipla escolha inteiramente no CPython. E
 
 **𝘊𝘰𝘮𝘰 𝘌𝘹𝘦𝘤𝘶𝘵𝘢𝘳 𝘰 𝘗𝘳𝘰𝘫𝘦𝘵𝘰🍃**  
 
-Para executar o projeto localmente:
+Para executar o projeto localmente por meio de um Fork:
 
-1. Copie o códgo apresentado quando apertar o botão "<> Code".
-2. Cole o código no seu Github desktop ou no terminal do seu VSCode utilizando "git clone url_do_repositório_do_site".
-3. Depois de seguir os passos a cima clique no botão ▶️ no canto superior direito.  
+1. Fazer um Fork do repositório original.
+2. Clonar o repositório Forkado para o seu computador.
+3. Fazer modificações e enviar (push) de volta ao GitHub.
 
 <hr>
 
