@@ -44,27 +44,54 @@ Desenvolvemos um jogo interativo de múltipla escolha inteiramente no CPython. E
   
 <hr>
 
-**𝘗𝘦𝘳𝘥𝘢 𝘥𝘰 𝘈𝘭𝘪𝘮𝘦𝘯𝘵𝘰🍃**
+**𝘐𝘯𝘷𝘦𝘯𝘵𝘢́𝘳𝘪𝘰 𝘐𝘯𝘪𝘤𝘪𝘢𝘭🍃**
 
-<img src="./assets/perca do alimento.png" alt="imagem" width="600" height="400"/>
-
-<hr>
-
-**𝘋𝘢𝘥𝘰𝘴 𝘥𝘢 𝘏𝘰𝘳𝘵𝘢🍃**
-
-<img src=".//assets/dados da horta.png" alt="imagem" width="600" height="400"/>
+<img src="./Amaryllis_The_Green_End/assets/inventario_inicial.png" alt="imagem" width="600" height="400"/>
 
 <hr>
 
-**𝘊𝘰𝘭𝘩𝘦𝘪𝘵𝘢𝘴🍃**
-<hr>
-<img src="./assets/cafe.png" alt="imagem" width="600" height="400"/>
-<img src="./assets/frutas e hortalicas.png" alt="imagem" width="600" height="400"/>
-<img src="./assets/plantas tropicais.png" alt="imagem" width="600" height="400"/>
-<img src="./assets/graos.png" alt="imagem" width="600" height="400"/>
+**𝘐𝘵𝘦𝘯𝘴 𝘊𝘰𝘭𝘦𝘵𝘢𝘥𝘰𝘴🍃**
+
+<img src="./Amaryllis_The_Green_End/assets/funçao_itens_coletados.png" alt="imagem" width="600" height="400"/>
 
 <hr>
-  
+
+**𝘌𝘹𝘱𝘭𝘰𝘳𝘢𝘤̧𝘢̃𝘰🍃**
+
+<hr>
+
+<img src="./Amaryllis_The_Green_End/assets/funcao_exploracao.png" alt="imagem" width="600" height="400"/>
+<img src="./Amaryllis_The_Green_End/assets/funcao_exploracao_continuacao.png" alt="imagem" width="600" height="400"/>
+<img src="./Amaryllis_The_Green_End/assets/funcao_exploracao_final.png" alt="imagem" width="600" height="400"/>
+
+<hr>
+
+**𝘊𝘳𝘪𝘢𝘳 𝘉𝘪𝘰𝘨𝘢́𝘴🍃**
+
+<img src="./Amaryllis_The_Green_End/assets/funcao_biogas.png" alt="imagem" width="600" height="400"/>
+
+<hr>
+
+**𝘊𝘳𝘪𝘢𝘳 𝘗𝘢𝘪𝘯𝘦𝘭 𝘚𝘰𝘭𝘢𝘳🍃**
+
+<img src="./Amaryllis_The_Green_End/assets/funcao_painel_solar.png" alt="imagem" width="600" height="400"/>
+
+<hr>
+
+**𝘚𝘪𝘮𝘶𝘭𝘢𝘳 𝘗𝘰𝘭𝘶𝘪𝘤̧𝘢̃𝘰🍃**
+
+<img src="./Amaryllis_The_Green_End/assets/funcao_poluicao.png" alt="imagem" width="600" height="400"/>
+
+<hr>
+
+**𝘙𝘰𝘥𝘢𝘳 𝘑𝘰𝘨𝘰🍃**
+
+<img src="./Amaryllis_The_Green_End/assets/funcao_rodar_jogo.png" alt="imagem" width="600" height="400"/>
+<img src="./Amaryllis_The_Green_End/assets/funcão_rodar_jogo_final.png" alt="imagem" width="600" height="400"/>
+
+<hr>
+
+
 **𝘓𝘪𝘯𝘬 𝘥𝘦 𝘈𝘤𝘦𝘴𝘴𝘰🍃**  
 https://wokwi.com/projects/414738026262732801
 
