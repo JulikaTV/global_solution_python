@@ -11,36 +11,37 @@ Com sua mãe que possui tosses frequentes e seu pai acamado por uma doença grav
 
 **𝘔𝘪𝘤𝘳𝘰 𝘗𝘳𝘰𝘫𝘦𝘵𝘰🪴**  
 
-Uma das funcionalidades dentro do jogo é o dispositivo para monitoramento de irrigação e estado da horta da personagem. Foi feito um simulador no Wokwi para mostrar como esse dispositivo funcionaria também na vida real.
+Desenvolvemos um jogo interativo de múltipla escolha inteiramente no CPython. Em 𝙰𝚖𝚊𝚛𝚢𝚕𝚕𝚒𝚜: 𝚃𝚑𝚎 𝙶𝚛𝚎𝚎𝚗 𝙴𝚗𝚍 haverá interações com personagens, pensamentos e falas da protagonista, escolha de lugares para explorar e descobrir novos itens para futuramente serem usados em criações de itens com a funcionalidade voltada 100% para uso de 𝘨𝘳𝘦𝘦𝘯 𝘦𝘯𝘦𝘳𝘨𝘺, assim incentivando o público a se concientizar da sua importancia vendo através da narrativa contada pela própria protagonista até onde o nosso mundo pode chegar se continuar com o uso exarcebado de recursos naturais e como a enrgia limpa é a solução para a sobrevivencia em um mundo que esta cada vez mais doente.
 
-<hr>
-
-**𝘔𝘢𝘵𝘦𝘳𝘪𝘢𝘪𝘴 𝘜𝘴𝘢𝘥𝘰𝘴 𝘦 𝘴𝘶𝘢𝘴 𝘍𝘶𝘯𝘤𝘪𝘰𝘯𝘢𝘭𝘪𝘥𝘢𝘥𝘦𝘴🍃** 
-
-- Arduino UNO : Sua principal função é servir como uma ponte entre o código para o projeto fisíco.
-- Servo Motor : Simular as irrigação das plantas.
-- Led Vermelho : Alerta de perda da colheita.
-- Led Amarelo : Alerta de possível perda da colheita.
-- Led Verde : Caso esteja em ótimo estado para cada tipo de colheita.
-- Tela LCD : Exibir as Mensagens de cada LED.
-- DHT22 : Lê a umidade e temperatura do ambiente
-- Jumpers macho : Conexão das peças.
-- Resistores de 200 Ω : Sua função é limitar o fluxo de corrente elétrica e ajustar os níveis de tensão, protegendo componentes sensíveis e garantindo o funcionamento correto de dispositivos.
-- Breadboard : Para melhor organização e vizualização.
-- Buzzer : Caso tenha perda ou possivel perda da horta.
-- 
 <hr>
 
 **𝘛𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢𝘴 𝘜𝘵𝘪𝘭𝘪𝘻𝘢𝘥𝘢𝘴🍃**  
 
-- <img src="https://skillicons.dev/icons?i=cpp" />  para comandos do arduino
+- <img src="https://skillicons.dev/icons?i=py" />   : Para criação do jogo
+
+<hr>
+
+**𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘢𝘴 𝘜𝘴𝘢𝘥𝘰𝘴🍃**  
+
+- <img src="https://skillicons.dev/icons?i=pycharm" />   : PyCharm
+- <img src="https://skillicons.dev/icons?i=vscode" />   : VSCode
   
 <hr>
 
-**𝘊𝘰𝘮𝘰 𝘌𝘭𝘦𝘴 𝘍𝘶𝘯𝘤𝘪𝘰𝘯𝘢𝘮 𝘦𝘮 𝘊𝘰𝘯𝘫𝘶𝘯𝘵𝘰🍃**
+**𝘌𝘴𝘵𝘳𝘶𝘵𝘶𝘳𝘢𝘴 𝘥𝘦 𝘊𝘰𝘯𝘵𝘳𝘰𝘭𝘦 𝘥𝘦 𝘍𝘭𝘶𝘹𝘰 𝘦 𝘍𝘶𝘯𝘤̧𝘰̃𝘦𝘴 𝘊𝘰𝘮𝘶𝘯𝘴 𝘯𝘰 𝘗𝘳𝘰𝘫𝘦𝘵𝘰🍃** 
 
-O Arduino servira para fazer uma conexão direta entre o projeto fisíco com o código que irá ditar os comandos. Quando a tmperatura e a umidade estiverem a baixo do ideal para uma boa condiçao da colheita, o buzzer ira emitir um som de alerta e uma mensagem ira aparecer na tela, caso o led verde fique acesso, isso quer dizer que a coleita esta em um ambiente adeuqado para cultivo e o servo motor ira fazer uma simulação de irrigação da horta, e quando o led estiver amarelo o buzzer irá acionar assim como no vermelho e uma mensagem também irá aparecer indicando possível perda.
-
+- If, Else
+- Range
+- While
+- Uso de lista
+- Uso de varíaveis
+- For
+- Def
+- Booleano
+- Break
+- True, False
+- Len
+  
 <hr>
 
 **𝘗𝘦𝘳𝘥𝘢 𝘥𝘰 𝘈𝘭𝘪𝘮𝘦𝘯𝘵𝘰🍃**
