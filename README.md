@@ -11,7 +11,7 @@ Com sua mãe que possui tosses frequentes e seu pai acamado por uma doença grav
 
 **𝘔𝘪𝘤𝘳𝘰 𝘗𝘳𝘰𝘫𝘦𝘵𝘰🪴**  
 
-Desenvolvemos um jogo interativo de múltipla escolha inteiramente no CPython. Em 𝙰𝚖𝚊𝚛𝚢𝚕𝚕𝚒𝚜: 𝚃𝚑𝚎 𝙶𝚛𝚎𝚎𝚗 𝙴𝚗𝚍 haverá interações com personagens, pensamentos e falas da protagonista, escolha de lugares para explorar e descobrir novos itens para futuramente serem usados em criações de itens com a funcionalidade voltada 100% para uso de 𝘨𝘳𝘦𝘦𝘯 𝘦𝘯𝘦𝘳𝘨𝘺, assim incentivando o público a se concientizar da sua importancia vendo através da narrativa contada pela própria protagonista até onde o nosso mundo pode chegar se continuar com o uso exarcebado de recursos naturais e como a enrgia limpa é a solução para a sobrevivencia em um mundo que esta cada vez mais doente.
+Desenvolvemos um jogo interativo de múltipla escolha inteiramente no CPython. Em 𝙰𝚖𝚊𝚛𝚢𝚕𝚕𝚒𝚜: 𝚃𝚑𝚎 𝙶𝚛𝚎𝚎𝚗 𝙴𝚗𝚍 haverá pensamentos e falas da protagonista, escolha de lugares para explorar e descobrir novos itens para futuramente serem usados em criações de itens com a funcionalidade voltada 100% para uso de 𝘨𝘳𝘦𝘦𝘯 𝘦𝘯𝘦𝘳𝘨𝘺, assim incentivando o público a se concientizar da sua importancia vendo através da narrativa contada pela própria protagonista até onde o nosso mundo pode chegar se continuar com o uso exarcebado de recursos naturais e como a enrgia limpa é a solução para a sobrevivencia em um mundo que esta cada vez mais doente.
 
 <hr>
 
