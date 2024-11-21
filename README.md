@@ -1,4 +1,4 @@
-<h1 align="center">🌱Global Solution - Python🌱</h1>
+<h1 align="center">🌱𝙶𝚕𝚘𝚋𝚊𝚕 𝚂𝚘𝚕𝚞𝚝𝚒𝚘𝚗 - 𝙿𝚢𝚝𝚑𝚘𝚗🌱</h1>
 <br>
 <br>
 
@@ -46,7 +46,7 @@ Desenvolvemos um jogo interativo de múltipla escolha inteiramente no CPython. E
 
 **𝘐𝘯𝘷𝘦𝘯𝘵𝘢́𝘳𝘪𝘰 𝘐𝘯𝘪𝘤𝘪𝘢𝘭🍃**
 
-<img src="./Amaryllis_The_Green_End/assets/inventario_inicial.png" alt="imagem" width="600" height="400"/>
+<img src="./Amaryllis_The_Green_End/assets/inventario_inicial.png" alt="imagem" width="1100" height="400"/>
 
 <hr>
 
@@ -62,7 +62,7 @@ Desenvolvemos um jogo interativo de múltipla escolha inteiramente no CPython. E
 
 <img src="./Amaryllis_The_Green_End/assets/funcao_exploracao.png" alt="imagem" width="600" height="400"/>
 <img src="./Amaryllis_The_Green_End/assets/funcao_exploracao_continuacao.png" alt="imagem" width="600" height="400"/>
-<img src="./Amaryllis_The_Green_End/assets/funcao_exploracao_final.png" alt="imagem" width="600" height="400"/>
+<img src="./Amaryllis_The_Green_End/assets/funcao_exploracao_final.png" alt="imagem" width="1100" height="400"/>
 
 <hr>
 
@@ -80,27 +80,24 @@ Desenvolvemos um jogo interativo de múltipla escolha inteiramente no CPython. E
 
 **𝘚𝘪𝘮𝘶𝘭𝘢𝘳 𝘗𝘰𝘭𝘶𝘪𝘤̧𝘢̃𝘰🍃**
 
-<img src="./Amaryllis_The_Green_End/assets/funcao_poluicao.png" alt="imagem" width="600" height="400"/>
+<img src="./Amaryllis_The_Green_End/assets/funcao_poluicao.png" alt="imagem" width="1100" height="400"/>
 
 <hr>
 
 **𝘙𝘰𝘥𝘢𝘳 𝘑𝘰𝘨𝘰🍃**
 
 <img src="./Amaryllis_The_Green_End/assets/funcao_rodar_jogo.png" alt="imagem" width="600" height="400"/>
-<img src="./Amaryllis_The_Green_End/assets/funcão_rodar_jogo_final.png" alt="imagem" width="600" height="400"/>
-
-<hr>
-
-
-**𝘓𝘪𝘯𝘬 𝘥𝘦 𝘈𝘤𝘦𝘴𝘴𝘰🍃**  
-https://wokwi.com/projects/414738026262732801
+<img src="./Amaryllis_The_Green_End/assets/funcão_rodar_jogo_final.png" alt="imagem" width="1100" height="400"/>
 
 <hr>
 
 **𝘊𝘰𝘮𝘰 𝘌𝘹𝘦𝘤𝘶𝘵𝘢𝘳 𝘰 𝘗𝘳𝘰𝘫𝘦𝘵𝘰🍃**  
+
 Para executar o projeto localmente:
-1. Clique no Link a cima 
-2. Depois de entrar na página do wokwi como o projeto aperte no play
+
+1. Copie o códgo apresentado quando apertar o botão "<> Code".
+2. Cole o código no seu Github desktop ou no terminal do seu VSCode utilizando "git clone url_do_repositório_do_site".
+3. Depois de seguir os passos a cima clique no botão ▶️ no canto superior direito.  
 
 <hr>
 
