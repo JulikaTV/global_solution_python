@@ -93,6 +93,8 @@ Desenvolvemos um jogo interativo de múltipla escolha inteiramente no CPython. E
 
 **𝘊𝘰𝘮𝘰 𝘌𝘹𝘦𝘤𝘶𝘵𝘢𝘳 𝘰 𝘗𝘳𝘰𝘫𝘦𝘵𝘰🍃**  
 
+Link explicativo do projeto : https://youtu.be/FK79lPj5NQ4
+
 Para executar o projeto localmente por meio de um Fork:
 
 1. Fazer um Fork do repositório original.
